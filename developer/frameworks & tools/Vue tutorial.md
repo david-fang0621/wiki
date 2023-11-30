@@ -1,0 +1,21 @@
+- declarative rendering (reactive state) - data component option (mustache)
+- Attribute bindings (directive) - mustaches are only used for text interpolation
+- dedicated shorthand syntax: `<div :id="dynamicId"></div>`
+- Event listeners: `v-on` directive, shorthand syntax: `@click`
+- Form bindings
+  - v-model (input, checkbox, textarea, radio, select)
+  - modifiers (.lazy, .number, .trim)
+- conditional rendering (`v-if` directive)
+- list rendering (`v-for` directive)
+- computed property
+  - computed caching vs methods
+  - variable computed
+- lifecycle
+  - mounted
+    beforeCreate → created → beforeMount → mounted
+    beforeUpdate → updated → beforeUnmount → Unmounted
+- watchers: In component, guard the variable
+- components
+- Props → parent → child component
+- Emits → child → emitted events
+- slots → child components
