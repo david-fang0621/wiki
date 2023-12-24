@@ -1,0 +1,82 @@
+We want to create a "new" page that people will see directly after they create an account through whatever of the 4 methods we provide.
+
+I did a raw sketch of what it could look like. Would still need a headline like "Choose what you are looking for". Should be responsive so that all devices can use that page properly. That is btw a general task we want to take on with you step by step for different things.
+
+These pictures are meant to probably be implemented into the product panels of the respective product. You can take a look when incognito on the [pracc.com](http://pracc.com/) landingpage, there we have something similar in the bottom to showcase the products.
+
+- 6.16
+  - [ ] complete deathmatch landing page
+  - [ ] tab mobile responsive
+  - [ ] pricing table
+  - [ ] menu
+- 6.15
+  - [x] complete scrim, recorder, performance, replay landing page
+  - [ ] tab & table mobile responsive
+  - [ ] deathmatch mobile responsive
+- release note (tag v1.1)
+  - login
+  - register
+  - non-auth user landing page
+  - guide-map
+  - complete-account
+  - scrim landing page
+  - recorder landing page
+  - performance landing page
+  - replay landing page
+  - create team
+  - team detail
+  - create a group
+  - profile setting
+- 6.14
+  - [x] dark mode switcher issue on app
+  - [x] performance device responsive
+  - [x] arrange the styling dependencies
+  - [x] improve the guide map page layout
+- 6.13
+  - [ ] Post your requests
+  - [x] scrim-search
+  - [x] Recorder, Replay
+  - [x] Performance
+- 6.12
+  - [x] update the access way of guide-map
+  - [x] update complete account & its redirection & link account sync issue
+- 6.11
+  - [x] fix the date label issue in matches (mobile)
+  - [x] add month-picker in agenda-view (mobile)
+  - [x] date standardization between agenda and timeline view (mobile)
+  - [x] add day label (mobile)
+- 6.9
+  - [x] mobile responsive for create team
+  - [ ] mobile responsive for team member
+  - [x] mobile responsive for create group
+  - [ ] mobile responsive for group listing
+  - [ ] mobile responsive for search page
+- 6.8
+  - [x] header mobile responsive
+  - [x] fix dark mode switching (mobile)
+  - [x] solve the timeline scrollview height issue (mobile)
+- 6.7
+  - [x] login and register mobile responsive
+  - [x] landing page mobile responsive
+  - [x] team page mobile responsive
+  - [x] add game logos in another products of guide-map
+  - [x] mobile responsive for profile setting
+  - [x] working on the header mobile responsive
+- 6.6
+  - [x] add pointer & remove divider in recommend of complete account
+  - [x] improve the styling of guide-map
+  - [x] apply dismiss rule in accounts linking
+  - [x] mobile responsive on layout
+- 6.5
+  - [x] add exception handler for non-team profile (mobile)
+  - [x] add info button in complete account
+  - [x] add provider link alert
+- 6.4
+  - [x] improve the complete-account with providers
+- 6.2
+  - [x] update styling & add label for message limitation
+- 6.1
+  - [x] update search layout (mobile)
+  - [x] fix notification screen issue (mobile)
+  - [x] create guide-map component
+  - [x] add event handler skeleton
